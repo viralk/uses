@@ -1,5 +1,5 @@
 # Uses
-This is a list of all the stuff that I use almost everyday.
+This is a list of all the stuff that I use almost everyday.<br />
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's /uses pages!
 
 ### 🖥 Setup
