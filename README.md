@@ -19,6 +19,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 ### 🎒 Everyday Carry (EDC)
 - **Backpack**: Bellroy classic backpack Limestone
 - **Organizer**: Bellroy tech kit Midnight
+- **Water**: Chilly's Bottle 750ml Black
 - **Phone**: Samsung Galaxy S20 FE
 - **Watch**: Samsung Galaxy Watch 46mm
 - **Earbuds**: Samsung Galaxy Buds+
