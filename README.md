@@ -24,6 +24,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Watch**: Samsung Galaxy Watch 46mm
 - **Earbuds**: Samsung Galaxy Buds+
 - **Powerbank**: Anker PowerCore III 10000 mAh
+- **Notes**: Rhodia A5 n.16 dotpad black
 
 ### 🎹 Music
 - [Nightride](https://open.spotify.com/playlist/3vWjWKZNWtlNc8BhT6YxOH) (Most iconic vocal Synthwave - Popwave tracks. Kavinsky, The Midnights, FM-84 and much more...)
