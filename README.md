@@ -15,6 +15,13 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Font**: Fira code (with ligatures)
 - **Browser**: Google Chrome / Firefox developer Edition
 - **Terminal**: iTerm with Z shell and Oh My Zsh
+- **Ftp**: Filezilla / Winscp
+- **Database**: DBeaver
+
+### 🛠️ Apps
+- **Planning**: Google Calendar
+- **Notes**: Google Keep / Notion
+- **Tasks**: Trello
 
 ### 🎒 Everyday Carry (EDC)
 - **Backpack**: Bellroy classic backpack Limestone
