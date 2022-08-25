@@ -21,7 +21,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 ### 🛠️ Apps
 - **Planning**: Google Calendar
 - **Notes**: Google Keep / Notion
-- **Tasks**: Trello
+- **Tasks**: Trello / Todoist
 
 ### 🎒 Everyday Carry (EDC)
 - **Backpack**: Bellroy classic backpack Limestone
