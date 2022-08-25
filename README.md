@@ -34,5 +34,5 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Notes**: Rhodia A5 n.16 dotpad black
 
 ### 🎹 Music
-- [Nightride](https://open.spotify.com/playlist/3vWjWKZNWtlNc8BhT6YxOH) (Most iconic vocal Synthwave - Popwave tracks. Kavinsky, The Midnights, FM-84 and much more...)
+- [Nightride](https://open.spotify.com/playlist/3vWjWKZNWtlNc8BhT6YxOH) (Most iconic vocal Synthwave - Popwave tracks. Kavinsky, The Midnights, FM-84 and much more)
 - [Big in the 80s](https://open.spotify.com/playlist/2TAdvje5W9GpVwTB7hHs4B) (All time favourites of the 80s Pop culture from motion pictures soundtrack to gratest hits)
