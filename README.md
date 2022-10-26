@@ -4,7 +4,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 
 ### 🖥 Setup
 - Apple iMac (Retina 5K, 27-inch, Late 2014) ~ *Old but still rockin'*
-- Apple Magic Keyboard ~ *Soon to be replaced by a Logitech MX Mini*
+- Logitech MX Keys Mini Keyboard ~ *My new entry!*
 - Logitech MX Master mouse ~ *Best mouse. Ever.*
 - Western Digital My Book 4Tb ~ *Cheap and reliable for local backup*
 - Bose Soundlink Around Ear II ~ *Great wireless headphones*
