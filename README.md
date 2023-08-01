@@ -20,8 +20,10 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 
 ### 🛠️ Apps
 - **Planning**: Google Calendar
-- **Notes**: Google Keep / Notion
-- **Tasks**: Trello / Todoist
+- **Quick Notes**: Google Keep
+- **Notes / Wiki**: Notion
+- **Projects**: Trello
+- **Tasks**: Todoist
 
 ### 🎒 Everyday Carry (EDC)
 - **Backpack**: Bellroy classic backpack Limestone
@@ -32,6 +34,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Earbuds**: Samsung Galaxy Buds+
 - **Powerbank**: Anker PowerCore III 10000 mAh
 - **Notes**: Rhodia A5 n.16 dotpad black
+- **Book**: Pragmatic Programmer, *David Thomas - Andrew Hunt*
 
 ### 🎹 Music
 - [Nightride](https://open.spotify.com/playlist/3vWjWKZNWtlNc8BhT6YxOH) (Most iconic vocal Synthwave - Popwave tracks. Kavinsky, The Midnights, FM-84 and much more)
