@@ -3,10 +3,11 @@ This is a list of all the stuff that I use almost everyday.<br />
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's /uses pages!
 
 ### 🖥 Setup
-- Apple Mac Mini M2 Pro (16GB - 512GB) ~ *Main machine*
+- Apple Mac Mini M2 Pro (16GB - 512GB) ~ *Home machine*
+- Dell Precision 3581 (i7-13700H 32GB) ~ *Work laptop*
 - Monitor 27'' 4K Dell S2722QC ~ *Great colors*
 - Logitech MX Keys Mini Keyboard ~ *My new entry!*
-- Logitech MX Master mouse ~ *Best mouse. Ever.*
+- Logitech MX Master 3S mouse ~ *Best mouse. Ever.*
 - Western Digital My Book 4Tb ~ *Cheap and reliable for local backup*
 - Bose Soundlink Around Ear II ~ *Great wireless headphones*
 
