@@ -9,14 +9,15 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - Logitech MX Keys Mini Keyboard ~ *My new entry!*
 - Logitech MX Master 3S mouse ~ *Best mouse. Ever.*
 - Western Digital My Book 4Tb ~ *Cheap and reliable for local backup*
-- Bose Soundlink Around Ear II ~ *Great wireless headphones*
+- Sony WH-1000XM4 ANC ~ *Great wireless headphones*
 
 ### 👨🏻‍💻 Development
 - **Editor**: Visual Studio Code
 - **Theme**: One dark pro
 - **Font**: Fira code (with ligatures)
 - **Browser**: Google Chrome / Firefox developer Edition
-- **Terminal**: iTerm with Z shell and Oh My Zsh
+- **Terminal OSX**: iTerm with Z shell and Oh My Zsh
+- **Terminal WIN**: Cmder with Clink
 - **Ftp**: Filezilla / Winscp
 - **Database**: DBeaver
 
@@ -24,8 +25,6 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Planning**: Google Calendar
 - **Quick Notes**: Google Keep
 - **Notes / Wiki**: Notion
-- **Projects**: Trello
-- **Tasks**: Todoist
 
 ### 🎒 Everyday Carry (EDC)
 - **Backpack**: Bellroy classic backpack Limestone
@@ -35,9 +34,11 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Watch**: Samsung Galaxy Watch 46mm
 - **Earbuds**: Samsung Galaxy Buds+
 - **Powerbank**: Anker PowerCore III 10000 mAh
+- **Sunglasses**: Rayban Aviator
 - **Notes**: Rhodia A5 n.16 dotpad black
 - **Book**: Pragmatic Programmer, *David Thomas - Andrew Hunt*
 
 ### 🎹 Music
 - [Nightride](https://open.spotify.com/playlist/3vWjWKZNWtlNc8BhT6YxOH) (Most iconic vocal Synthwave - Popwave tracks. Kavinsky, The Midnights, FM-84 and much more)
 - [Big in the 80s](https://open.spotify.com/playlist/2TAdvje5W9GpVwTB7hHs4B) (All time favourites of the 80s Pop culture from motion pictures soundtrack to gratest hits)
+- [Nigths in the bay]() (Coming Soon: Collection of City Pop tracks)
