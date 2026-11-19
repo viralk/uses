@@ -2,14 +2,20 @@
 This is a list of all the stuff that I use almost everyday.<br />
 Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's /uses pages!
 
-### 🖥 Setup
-- Apple Mac Mini M2 Pro (16GB - 512GB) ~ *Home machine*
-- Dell Precision 3581 (i7-13700H 32GB) ~ *Work laptop*
-- Monitor 27'' 4K Dell S2722QC ~ *Great colors*
-- Logitech MX Keys Mini Keyboard ~ *My new entry!*
-- Logitech MX Master 3S mouse ~ *Best mouse. Ever.*
-- Western Digital My Book 4Tb ~ *Cheap and reliable for local backup*
-- Sony WH-1000XM4 ANC ~ *Great wireless headphones*
+### 🖥 Main Machine
+- AMD Ryzen 5 9600X 3.9 GHz 6-Core
+- ADATA XPG Lancer Blade 32 GB DDR5-6000 CL30
+- Nvidia GeForce RTX 3070 8 GB
+- Asus PRIME B850-PLUS WIFI ATX AM5
+- Samsung 990 EVO Plus 1 TB M.2-2280 PCIe 5.0 X2 NVME
+
+### 💻 Accessories
+- Dell Precision 3581 (i7-13700H 32GB)
+- Monitor 27'' 4K Dell S2722QC
+- Logitech MX Keys Mini Keyboard
+- Logitech MX Master 3S mouse
+- Western Digital My Book 4Tb
+- Sony WH-1000XM4 ANC
 
 ### 👨🏻‍💻 Development
 - **Editor**: Visual Studio Code
@@ -20,6 +26,7 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 - **Terminal WIN**: Cmder with Clink
 - **Ftp**: Filezilla / Winscp
 - **Database**: DBeaver
+- **AI**: Copilot / Codex
 
 ### 🛠️ Apps
 - **Planning**: Google Calendar
